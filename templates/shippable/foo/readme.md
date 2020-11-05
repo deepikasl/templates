@@ -2,6 +2,6 @@
 
 - Users will be able to see the content mentioned in the readme.md file of a particular template
 
-Template Name: `foo`
-Template Namespace: `shippable`
+- Template Name: `foo`
+- Template Namespace: `shippable`
 
