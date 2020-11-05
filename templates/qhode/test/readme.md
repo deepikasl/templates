@@ -1,10 +1,6 @@
-## Sample Markdown readme file for the demo
+**Sample Markdown readme file for the demo**
 
 - Users will be able to see the content mentioned in the readme.md file of a particular template
 
 Template Name: `test`
 Template Namespace: `qhode`
-
-| Template Name | Template Namespace |
-| ----------- | ----------- |
-| test | qhode |
